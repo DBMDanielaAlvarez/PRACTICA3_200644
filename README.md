@@ -18,13 +18,19 @@
 
 
 
+&nbsp;
+&nbsp;
+|  Característica |  Información |
+| :------------: | :------------: |
+| Nombre  |  Práctica 3: Primera Aplicación en Flutter |
+| Descripción  |  Esta es la primer aplicación en flutter, la cual tiene un contador (se genera por defecto al crear el proyecto) se cambian solo datos del alumno|
+|  Fecha de Actividad  |  06 de Septiembre de 2023  |
 
 &nbsp;
 &nbsp;
 
 &nbsp;
 &nbsp;
-
 <br>
 <br>
 <br>

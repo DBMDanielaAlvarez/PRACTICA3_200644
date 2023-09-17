@@ -31,6 +31,15 @@
 &nbsp;
 &nbsp;
 
+## Salida
+
+<p align="justify">
+  La siguiente imagen es el resultado en aplicación móvil, lo que se muestra al abrir la aplicación. El cual es un contador (que viene por defecto al crear un nuevo proyecto en flutter. Solo se modifican los datos de quien esta modificando el código.
+</p>
+<p align="center">
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA3_200644/blob/main/screenshots/practica3.jpg" width="20%"/>
+</p>
+
 
 <br>
 <br>
